@@ -1,2 +1,2 @@
 # Aula-28-02
-Repositório para os arquivos do site para avaliação.
+Repositório utilizado para a inserção de arquivos da atividade avaliativa.
